@@ -1,0 +1,24 @@
+{
+    "name": "com.[company-name].[package-name]",
+    "version": "0.0.1",
+    "displayName": "ScratchNet",
+    "description": "A UDP networking package that connects two or more people to a room locally",
+    "unity": "6000.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+       
+    },
+    "keywords": [
+        "Multiplayer",
+        "Networking",
+        "Local"
+    ],
+    "author": {
+        "name": "ProggersValentino",
+        "email": "unity@example.com",
+        "url": "https://www.unity3d.com"
+    }
+}
