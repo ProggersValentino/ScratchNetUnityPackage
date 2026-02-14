@@ -1,15 +1,14 @@
 {
-    "name": "com.[company-name].[package-name]",
+    "name": "com.scratchingRust.scratchnet",
     "version": "0.0.1",
     "displayName": "ScratchNet",
     "description": "A UDP networking package that connects two or more people to a room locally",
     "unity": "6000.1",
-    "unityRelease": "0b5",
-    "documentationUrl": "https://example.com/",
+    "unityRelease": "40f1",
+    "documentationUrl": "https://github.com/ProggersValentino/ScratchNetDocumentation",
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
     "dependencies": {
-       
     },
     "keywords": [
         "Multiplayer",
@@ -18,7 +17,7 @@
     ],
     "author": {
         "name": "ProggersValentino",
-        "email": "unity@example.com",
-        "url": "https://www.unity3d.com"
+        "email": "neonerbeni@gmail.com",
+        "url": "https://github.com/ProggersValentino"
     }
 }
