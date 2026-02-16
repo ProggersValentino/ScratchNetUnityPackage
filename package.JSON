@@ -1,5 +1,5 @@
 {
-    "name": "com.scratchingRust.scratchnet",
+    "name": "com.ScratchingRust.scratchnet",
     "version": "0.0.1",
     "displayName": "ScratchNet",
     "description": "A UDP networking package that connects two or more people to a room locally",

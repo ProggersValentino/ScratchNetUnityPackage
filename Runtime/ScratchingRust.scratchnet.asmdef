@@ -1,0 +1,13 @@
+{
+	"name": "ScratchingRust.scratchnet",
+	"references": [],
+	"includePlatforms": ["Windows 64-bit"],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": true
+}
