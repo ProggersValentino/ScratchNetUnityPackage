@@ -6,8 +6,6 @@
     "unity": "6000.1",
     "unityRelease": "40f1",
     "documentationUrl": "https://github.com/ProggersValentino/ScratchNetDocumentation",
-    "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
     "dependencies": {
     },
     "keywords": [
