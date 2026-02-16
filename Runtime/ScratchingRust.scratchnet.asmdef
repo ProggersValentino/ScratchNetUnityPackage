@@ -1,7 +1,7 @@
 {
-	"name": "ScratchingRust.scratchnet",
+	"name": "scratchingrust.scratchnet",
 	"references": [],
-	"includePlatforms": ["Windows 64-bit"],
+	"includePlatforms": [],
 	"excludePlatforms": [],
 	"allowUnsafeCode": false,
 	"overrideReferences": false,
